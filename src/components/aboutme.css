@@ -1,0 +1,23 @@
+.logo{
+    width:17%;
+    height:250px;
+    margin:10px;
+}
+.aboutContainer{
+    display:flex;
+    flex-direction: row;
+    
+}
+p{
+text-align: center;
+width:35%;
+margin:10px;
+margin-top:45px;
+margin-left: 40px;
+}
+.aboutStyle{
+    background-image: linear-gradient(#DBFF33,#31752F,black);
+    border-style:solid;
+    border-color:black;
+    color:black;
+}
