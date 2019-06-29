@@ -1,13 +1,17 @@
 .header-color {
-background:#31752F;
-background: -webkit-linear-gradient(to right,white, #31752F);  /* Chrome 10-25, Safari 5.1-6 */
-background-image: linear-gradient(#DBFF33,#31752F,black)
+background:black;
+/* background: -webkit-linear-gradient(to right,white, #31752F);  /* Chrome 10-25, Safari 5.1-6 */
+ background-image: linear-gradient(black,black,black) 
+}
+.hr {
+
 }
 
 .landing-grid {
-  background: rgb(135, 245, 45);  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right,white, yellow, rgb(135, 245, 45));  /* Chrome 10-25, Safari 5.1-6 */
-  background-image: linear-gradient(white, yellow, rgb(135, 245, 45)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: black;  /* fallback for old browsers */
+  /* background: -webkit-linear-gradient(to right,white, yellow, rgb(135, 245, 45));  Chrome 10-25, Safari 5.1-6 */
+  
+  /* background-image: linear-gradient(white, yellow, rgb(135, 245, 45)); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   text-align: center;
   position: fixed;
   top: 0;
@@ -19,12 +23,17 @@ background-image: linear-gradient(#DBFF33,#31752F,black)
 .projects-grid {
   display: flex;
 }
+.resumeBackground {
+background:black;
+}
 
 /* Resume Page css */
 .resume-right-col {
   background: #093A08;
   color: white;
   padding: 2em;
+  border-width: 5px;
+  border-color:#93FF00;
 }
 
 /* contact page css */
@@ -43,8 +52,8 @@ background-image: linear-gradient(#DBFF33,#31752F,black)
   justify-content: center;
   width: 80%;
   height: 550px;
-  background: white;
-  color: black;
+  background: black;
+  color:#93FF00;
   margin-bottom: 20px;
 }
 

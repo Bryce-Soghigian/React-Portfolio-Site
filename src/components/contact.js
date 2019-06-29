@@ -33,7 +33,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-globe" aria-hidden="true"/>
-                    www.Bryce-Soghigian.com
+                    BryceSoghigianv6.netlify.com
                   </ListItemContent>
                 </ListItem>
 
