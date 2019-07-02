@@ -7,17 +7,17 @@ Add more freelance work to the resume section</br>
 
 
 # Deployment Versions to show progress on the project
-**Version 7**
-https://brycesoghigianv7.netlify.com/
-**Version 6**
-https://brycesoghigianv6.netlify.com/
-**Version 5**
-https://brycesoghigianv5.netlify.com/
-**Version 4**
-https://brycesoghigianv4.netlify.com/
-**Version 3**
-https://bryce-soghigianv3.netlify.com/
-**Version 2**
-https://brycesoghigianv2.netlify.com/
-**Version 1**
-https://brycesoghigianv1.netlify.com/
+**Version 7**</br>
+https://brycesoghigianv7.netlify.com/</br>
+**Version 6**</br>
+https://brycesoghigianv6.netlify.com/</br>
+**Version 5**</br>
+https://brycesoghigianv5.netlify.com/</br>
+**Version 4**</br>
+https://brycesoghigianv4.netlify.com/</br>
+**Version 3**</br>
+https://bryce-soghigianv3.netlify.com/</br>
+**Version 2**</br>
+https://brycesoghigianv2.netlify.com/</br>
+**Version 1**</br>
+https://brycesoghigianv1.netlify.com/</br>
