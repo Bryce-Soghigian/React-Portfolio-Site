@@ -8,7 +8,7 @@ import Experience from './experience';
 class Resume extends Component {
   render() {
     return(
-      <div>
+      <div className = "resumeBackground">
         <Grid>
           <Cell col={4}>
             <div style={{textAlign: 'center'}}>
@@ -19,18 +19,18 @@ class Resume extends Component {
                  />
             </div>
 
-            <h2 style={{paddingTop: '2em'}}>Bryce Soghigian</h2>
-            <h4 style={{color: 'grey'}}>Programmer</h4>
+            <h2 style={{paddingTop: '2em',color:'#93FF00'}}>Bryce Soghigian</h2>
+            <h4 style={{color: '#93FF00'} }>Fullstack Developer</h4>
             <hr style={{borderTop: '3px solid #DBFF33', width: '50%'}}/>
-            <p>Hey! I am Bryce Soghigian. I have been programming through lambda schools cs education.Here we learn frameworks like react and vue. We learn to use backend tech with express mongo and ruby. We learn algorithms using python and C. Here at lambda we also go through lambda labs which is a simulation of an actual work environment.Programming from 9-5 and submitting pull requests. I also have experience with large code bases, and will be able to navigate yours! </p>
+            <p style={{color: '#93FF00'} }>Hey! I am Bryce Soghigian. I have been programming through lambda schools cs education.Here we learn frameworks like react and vue. We learn to use backend tech with express mongo and ruby. We learn algorithms using python and C. Here at lambda we also go through lambda labs which is a simulation of an actual work environment.Programming from 9-5 and submitting pull requests. I also have experience with large code bases, and will be able to navigate yours! </p>
             <hr style={{borderTop: '3px solid #DBFF33', width: '50%'}}/>
             
-            <h5>Phone</h5>
-            <p>(515) 460-0273</p>
-            <h5>Email</h5>
-            <p>bsoghigian@gmail.com</p>
-            <h5>Web</h5>
-            <p>www.BryceSoghigian.netlify.com</p>
+            <h5 style={{color: '#93FF00'} }>Phone</h5>
+            <p style={{color: '#93FF00'} }>(515) 460-0273</p>
+            <h5 style={{color: '#93FF00'} }>Email</h5>
+            <p style={{color: '#93FF00'} }>bsoghigian@gmail.com</p>
+            <h5 style={{color: '#93FF00'} }>Web</h5>
+            <p style={{color: '#93FF00'} }>www.BryceSoghigian.netlify.com</p>
             <hr style={{borderTop: '3px solid #DBFF33', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
