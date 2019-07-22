@@ -24,21 +24,21 @@ class Contact extends Component {
             <div className="contact-list">
               <List>
                 <ListItem>
-                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton',}}>
+                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton', color: '#93FF00'}}>
                     <i className="fa fa-phone-square" aria-hidden="true"/>
                     (515) 460-0273
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
-                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton', color: '#93FF00'}}>
                     <i className="fa fa-globe" aria-hidden="true"/>
-                    BryceSoghigianv6.netlify.com
+                    brycesoghigian.com
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
-                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton', color: '#93FF00'}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
                     bsoghigian@gmail.com
                   </ListItemContent>

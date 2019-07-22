@@ -19,7 +19,7 @@ class Landing extends Component {
 
             <hr/>
 
-          <p style = {{color: '#93FF00',width : "100%"}}>HTML/CSS | Python | JavaScript | React\Vue| NodeJS | Express |MongoDB| C# </p>
+          <p style = {{color: '#93FF00',width : "100%"}}>HTML/CSS | ThreeJS | JavaScript | React| NodeJS | Express| C# </p>
 
         <div className="social-links">
 

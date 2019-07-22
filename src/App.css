@@ -3,9 +3,6 @@ background:black;
 /* background: -webkit-linear-gradient(to right,white, #31752F);  /* Chrome 10-25, Safari 5.1-6 */
  background-image: linear-gradient(black,black,black) 
 }
-.hr {
-
-}
 
 .landing-grid {
   background: black;  /* fallback for old browsers */
