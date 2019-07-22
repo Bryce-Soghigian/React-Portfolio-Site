@@ -7,6 +7,8 @@ Add more freelance work to the resume section</br>
 
 
 # Deployment Versions to show progress on the project
+**Version 8**</br>
+brycesoghigian8.netlify.com</br>
 **Version 7**</br>
 https://brycesoghigianv7.netlify.com/</br>
 **Version 6**</br>
