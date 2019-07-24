@@ -23,6 +23,8 @@ class Projects extends Component {
           <Button colored href ="https://github.com/tess-build-week">GitHub</Button>
          
           <Button colored href ="https://thenasaprojecttess.netlify.com/">Live Demo</Button>
+
+          <Button colored href = "#">Video Demo</Button>
         </CardActions>
         <CardMenu style={{color: '#fff'}}>
           <IconButton name="share" />
@@ -38,6 +40,7 @@ class Projects extends Component {
               <Button colored href = "https://github.com/Bryce-Soghigian/React-Insta-Clone/tree/master/instagram-app">GitHub</Button>
               
               <Button colored href = "https://bryces-instagram-clone.netlify.com/">Live Demo</Button>
+              <Button colored href = "https://youtu.be/6-TpEHMdMkg">Video Demo</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -54,6 +57,8 @@ class Projects extends Component {
               <Button colored href="https://github.com/Bryce-Soghigian/Sprint-Challenge-Lambda-Times-React">GitHub</Button>
               
               <Button colored href ="https://lambda-times-react-edition.netlify.com/">Live Demo</Button>
+
+              <Button colored href = "https://youtu.be/MTq-jnrkWBo">Video Demo</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -76,8 +81,10 @@ class Projects extends Component {
               </CardText>
             <CardActions border>
               <Button colored href ="https://github.com/Bryce-Soghigian/React-Portfolio-Site">GitHub</Button>
+
+              <Button colored href = "https://youtu.be/t2_r9Dry8bY">Video Demo</Button>
              
-              <Button colored>Live Demo</Button>
+              
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -119,6 +126,7 @@ class Projects extends Component {
             <CardActions border>
               <Button colored href ='https://github.com/Bryce-Soghigian/GoldfishLogin'>GitHub</Button>
              <Button colored href = "https://sprint12-project3v2.netlify.com/">Live Demo</Button>
+             <Button colored href = "#">Video Demo</Button>
               
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
