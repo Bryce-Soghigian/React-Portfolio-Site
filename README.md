@@ -1,14 +1,14 @@
 # React-Portfolio-Site
-
+**To see the most recent code please check the blackTheme Branch**
 Todos for this project</br>
 Make it responsive by adding media queries</br>
-Make the about me more interesting</br>
-Add more freelance work to the resume section</br>
 
 
 # Deployment Versions to show progress on the project
+**Version 9**</br>
+https://brycesoghigianv9.netlify.com/</br>
 **Version 8**</br>
-brycesoghigian8.netlify.com</br>
+https://brycesoghigian8.netlify.com</br>
 **Version 7**</br>
 https://brycesoghigianv7.netlify.com/</br>
 **Version 6**</br>
