@@ -5,6 +5,8 @@ Make it responsive by adding media queries</br>
 
 
 # Deployment Versions to show progress on the project
+**Version 10**</br>
+https://brycesoghigianv10.netlify.com</br>
 **Version 9**</br>
 https://brycesoghigianv9.netlify.com/</br>
 **Version 8**</br>
